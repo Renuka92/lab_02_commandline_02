@@ -299,7 +299,6 @@ books		logs		stuff		stuff.tar.gz	web
 ----------
 
 
-
 ==========
 25. Download and uncompress this file using curl and tar -xvf in your home directory:
 
@@ -317,4 +316,8 @@ $ tar -xvf secret.tar.gz
 26. How many files were in the archive.  What were their names?  Write out your answers below.
 ----------
 
-Nothing is shown; when you go to the link there is an error.
+THREE: 
+x secret/
+x secret/I HEARD YOU
+x secret/LIKE FILES
+x secret/SO I PUT THREE FILES IN YOUR FILE
