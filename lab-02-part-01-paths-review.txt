@@ -14,13 +14,13 @@ Feel free to use your workstation to test your answers to the questions that don
 1. Write the command that you would use to change to the root directory.
 ----------
 
-/
+cd /
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
 
-~
+cd ~
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
@@ -50,20 +50,19 @@ cd Desktop
 7. If you're in your home directory, what's the relative path to your Desktop directory?
 ----------
 
-/Desktop
+Desktop
 
 ==========
 8. If you're in your home directory, how would you create a new directory on your desktop called stuff without changing your directory?  Write your command below.
 ----------
 
-mkdir stuff
+mkdir Desktop/stuff
 
 ==========
 9. If you're in your root directory, how would you create a new directory on your desktop called more-stuff without changing your directory?  Write your command below.
 ----------
 
-mkdir Desktop/more-stuff
-
+ mkdir Users/student/Desktop/more-stuff
 ==========
 10. If you're in your Desktop directory, how would you create a new directory on your desktop called even-more-stuff?  Write your command below.
 ----------
@@ -92,7 +91,7 @@ cd -
 14. How would you show all of the files (including hidden ones) with detailed (long) information that are on you're Desktop if you're in your home directory?  Write your command below.
 ----------
 
-ls -a Desktop
+ls -lat Desktop
 
 ==========
 Optional Challenge:
