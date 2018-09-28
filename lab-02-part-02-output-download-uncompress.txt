@@ -149,6 +149,10 @@ Write down the command that you used to download the file below.  Additionally, 
 
 $ curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   178  100   178    0     0   1284      0 --:--:-- --:--:-- --:--:--  1289
+
 ==========
 14. We learned a command to uncompress a .zip file.  Use it to extract the files and folders from the file you just downloaded.
 
